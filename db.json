@@ -1,0 +1,78 @@
+{
+  "club": {
+    "name": "Hackney Wednesday FC",
+    "founded": "2017",
+    "team_records": {
+      "name": "Team",
+      "totals": [
+        {
+          "name": "Total Games",
+          "total": 28
+        },
+        {
+          "name": "Total Wins",
+          "total": 26
+        },
+        {
+          "name": "League Titles",
+          "total": 2
+        },
+        {
+          "name": "Total Goals",
+          "total": 100
+        }
+      ],
+      "records": [
+        {
+          "name": "Biggest Win",
+          "opponent": "The Kings",
+          "result": "10-0",
+          "date": "26/05/2019"
+        },
+        {
+          "name": "Highest Scoring Game",
+          "opponent": "Deathstar Utd",
+          "result": "6-5",
+          "date": "26/05/2019"
+        },
+        {
+          "name": "Most Goals in 1 Game",
+          "opponent": "The Kings",
+          "goals": 5,
+          "player": "Matt Stevens",
+          "date": "26/05/2019"
+        }
+      ]
+    },
+    "player_records": {
+      "name": "Players",
+      "records": [
+        {
+          "name": "Most Appearances",
+          "player": "Martyn Davies",
+          "total": 26
+        },
+        {
+          "name": "Most Goals",
+          "player": "Martyn Davies",
+          "total": 42
+        },
+        {
+          "name": "Most Assists",
+          "player": "Fergus McIntosh",
+          "total": 25
+        },
+        {
+          "name": "Most MOM's",
+          "player": "Joseph Bartram",
+          "total": 4
+        },
+        {
+          "name": "Most Clean Sheets",
+          "player": ["Daniel Hodkinson", "Joseph Bartram"],
+          "total": 6
+        }
+      ]
+    }
+  }
+}
