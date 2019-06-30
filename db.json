@@ -22,7 +22,7 @@
           "total": 100
         }
       ],
-      "records": [
+      "scoring_records": [
         {
           "name": "Biggest Win",
           "opponent": "The Kings",
