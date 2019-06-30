@@ -6,18 +6,22 @@
       "name": "Team",
       "totals": [
         {
+          "id": 1,
           "name": "Total Games",
           "total": 28
         },
         {
+          "id": 2,
           "name": "Total Wins",
           "total": 26
         },
         {
+          "id": 3,
           "name": "League Titles",
           "total": 2
         },
         {
+          "id": 4,
           "name": "Total Goals",
           "total": 100,
           "breakdown": [
