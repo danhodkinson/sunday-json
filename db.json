@@ -81,11 +81,13 @@
       "players": [
         {
           "name": "Joseph Bartram",
-          "slug": "joseph-bartram"
+          "slug": "joseph-bartram",
+          "id": 1
         },
         {
           "name": "Max Corinthian",
-          "slug": "max-corinthian"
+          "slug": "max-corinthian",
+          "id": 2
         }
       ]
     },
@@ -94,19 +96,23 @@
       "players": [
         {
           "name": "Mark Smith",
-          "slug": "mark-smith"
+          "slug": "mark-smith",
+          "id": 3
         },
         {
           "name": "Andy Baker",
-          "slug": "andy-baker"
+          "slug": "andy-baker",
+          "id": 4
         },
         {
           "name": "Daniel Hodkinson",
-          "slug": "daniel-hodkinson"
+          "slug": "daniel-hodkinson",
+          "id": 5
         },
         {
           "name": "Liam Fraser",
-          "slug": "liam-fraser"
+          "slug": "liam-fraser",
+          "id": 6
         }
       ]
     },
@@ -115,19 +121,23 @@
       "players": [
         {
           "name": "Rob Lupton",
-          "slug": "rob-lupton"
+          "slug": "rob-lupton",
+          "id": 7
         },
         {
           "name": "Matt Stevens",
-          "slug": "matt-stevens"
+          "slug": "matt-stevens",
+          "id": 8
         },
         {
           "name": "Alex Stewart",
-          "slug": "alex-stewart"
+          "slug": "alex-stewart",
+          "id": 9
         },
         {
           "name": "Calum McIntosh",
-          "slug": "calum-mcintosh"
+          "slug": "calum-mcintosh",
+          "id": 10
         }
       ]
     },
@@ -136,11 +146,13 @@
       "players": [
         {
           "name": "Martyn Davies",
-          "slug": "martyn-davies"
+          "slug": "martyn-davies",
+          "id": 11
         },
         {
           "name": "Fergus McIntosh",
-          "slug": "fergus-mcintosh"
+          "slug": "fergus-mcintosh",
+          "id": 12
         }
       ]
     }
