@@ -19,7 +19,19 @@
         },
         {
           "name": "Total Goals",
-          "total": 100
+          "total": 100,
+          "breakdown": [
+            {
+              "season": 1,
+              "total": 63,
+              "games": 14
+            },
+            {
+              "season": 2,
+              "total": 27,
+              "games": 6
+            }
+          ]
         }
       ],
       "scoring_records": [
