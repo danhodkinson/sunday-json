@@ -144,5 +144,35 @@
         }
       ]
     }
-  }
+  },
+  "player": [
+    {
+      "id": 1,
+      "slug": "joseph-bartram",
+      "name": "Joseph Bartram",
+      "position": "Goalkeeper",
+      "appearances": 22,
+      "goals": 0,
+      "assists": 2,
+      "clean_sheets": 6,
+      "yellow": 0,
+      "red": 0,
+      "for": 82,
+      "against": 18
+    },
+    {
+      "id": 2,
+      "slug": "max-corinthian",
+      "name": "Max Corinthian",
+      "position": "Goalkeeper",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "clean_sheets": 0,
+      "yellow": 0,
+      "red": 0,
+      "for": 3,
+      "against": 1
+    }
+  ]
 }
