@@ -74,5 +74,75 @@
         }
       ]
     }
+  },
+  "team": {
+    "goalkeepers": {
+      "title": "Goalkeepers",
+      "players": [
+        {
+          "name": "Joseph Bartram",
+          "slug": "joseph-bartram"
+        },
+        {
+          "name": "Max Corinthian",
+          "slug": "max-corinthian"
+        }
+      ]
+    },
+    "defenders": {
+      "title": "Defenders",
+      "players": [
+        {
+          "name": "Mark Smith",
+          "slug": "mark-smith"
+        },
+        {
+          "name": "Andy Baker",
+          "slug": "andy-baker"
+        },
+        {
+          "name": "Daniel Hodkinson",
+          "slug": "daniel-hodkinson"
+        },
+        {
+          "name": "Liam Fraser",
+          "slug": "liam-fraser"
+        }
+      ]
+    },
+    "midfielders": {
+      "title": "Midfielders",
+      "players": [
+        {
+          "name": "Rob Lupton",
+          "slug": "rob-lupton"
+        },
+        {
+          "name": "Matt Stevens",
+          "slug": "matt-stevens"
+        },
+        {
+          "name": "Alex Stewart",
+          "slug": "alex-stewart"
+        },
+        {
+          "name": "Calum McIntosh",
+          "slug": "calum-mcintosh"
+        }
+      ]
+    },
+    "forwards": {
+      "title": "Forwards",
+      "players": [
+        {
+          "name": "Martyn Davies",
+          "slug": "martyn-davies"
+        },
+        {
+          "name": "Fergus McIntosh",
+          "slug": "fergus-mcintosh"
+        }
+      ]
+    }
   }
 }
