@@ -206,5 +206,33 @@
         "against": 1
       }
     }
+  ],
+  "seasons": [
+    {
+      "name": "Season 2",
+      "table": {
+        "position": 1,
+        "played": 6,
+        "won": 6,
+        "drawn": 0,
+        "lost": 0,
+        "for": 27,
+        "against": 10,
+        "points": 18
+      }
+    },
+    {
+      "name": "Season 1",
+      "table": {
+        "position": 1,
+        "played": 14,
+        "won": 13,
+        "drawn": 1,
+        "lost": 0,
+        "for": 63,
+        "against": 12,
+        "points": 40
+      }
+    }
   ]
 }
