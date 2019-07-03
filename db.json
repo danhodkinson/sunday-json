@@ -236,5 +236,63 @@
         "points": 40
       }
     }
+  ],
+  "season": [
+    {
+      "id": 1,
+      "name": "Season 1",
+      "results": [
+        {
+          "id": 1,
+          "opponent": "Deathstar Utd",
+          "for": 6,
+          "against": 5,
+          "competition": "League",
+          "data": "26/05/2019"
+        },
+        {
+          "id": 2,
+          "opponent": "Jolly Boys FC",
+          "for": 3,
+          "against": 1,
+          "competition": "League",
+          "data": "26/05/2019"
+        },
+        {
+          "id": 3,
+          "opponent": "Los Niños",
+          "for": 7,
+          "against": 1,
+          "competition": "League",
+          "data": "26/05/2019"
+        },
+        {
+          "id": 4,
+          "opponent": "Los Niños",
+          "for": 7,
+          "against": 1,
+          "competition": "League",
+          "data": "26/05/2019"
+        },
+        ,
+        {
+          "id": 5,
+          "opponent": "Cunning Stunts",
+          "for": 8,
+          "against": 2,
+          "competition": "League",
+          "data": "26/05/2019"
+        },
+        ,
+        {
+          "id": 6,
+          "opponent": "The Kings",
+          "for": 10,
+          "against": 0,
+          "competition": "League",
+          "data": "26/05/2019"
+        }
+      ]
+    }
   ]
 }
