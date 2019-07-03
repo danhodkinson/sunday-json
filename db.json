@@ -210,7 +210,7 @@
   "seasons": [
     {
       "name": "Season 2",
-      "id": 1,
+      "id": 2,
       "table": {
         "position": 1,
         "played": 6,
@@ -224,7 +224,7 @@
     },
     {
       "name": "Season 1",
-      "id": 2,
+      "id": 1,
       "table": {
         "position": 1,
         "played": 14,
