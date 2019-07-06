@@ -4,19 +4,19 @@
   "description": "db for sunday",
   "main": "server.js",
   "scripts": {
-    "start" : "npm install && node server.js"
+    "start" : "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/danhodkinson/sunday-json.git"
   },
-  "author": "",
+  "author": "Dan Hodkinson",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/danhodkinson/sunday-json/issues"
   },
   "homepage": "https://github.com/danhodkinson/sunday-json#readme",
-  "devDependencies": {
+  "dependencies": {
     "json-server": "^0.15.0"
   }
 }
