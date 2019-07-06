@@ -2,9 +2,9 @@
   "name": "sunday-json",
   "version": "1.0.0",
   "description": "db for sunday",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start" : "node server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/danhodkinson/sunday-json/issues"
   },
-  "homepage": "https://github.com/danhodkinson/sunday-json#readme"
+  "homepage": "https://github.com/danhodkinson/sunday-json#readme",
+  "devDependencies": {
+    "json-server": "^0.15.0"
+  }
 }
