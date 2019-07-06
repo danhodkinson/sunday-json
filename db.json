@@ -1,5 +1,6 @@
 {
   "club": {
+    "id": 1,
     "name": "Hackney Wednesday FC",
     "founded": "2017",
     "team_records": {
@@ -237,181 +238,179 @@
       }
     }
   ],
-  "cheating": {
-    "season": [
+  "season": [
+    {
+      "id": 2,
+      "name": "Season 2",
+      "results": [
+        {
+          "id": 1,
+          "opponent": "Deathstar Utd",
+          "for": 6,
+          "against": 5,
+          "competition": "League",
+          "date": "26/05/2019"
+        },
+        {
+          "id": 2,
+          "opponent": "Jolly Boys FC",
+          "for": 3,
+          "against": 1,
+          "competition": "League",
+          "date": "26/05/2019"
+        },
+        {
+          "id": 3,
+          "opponent": "Los Niños",
+          "for": 7,
+          "against": 1,
+          "competition": "League",
+          "date": "26/05/2019"
+        },
+        {
+          "id": 4,
+          "opponent": "Hatchenamo",
+          "for": 3,
+          "against": 1,
+          "competition": "League",
+          "date": "26/05/2019"
+        },
+        {
+          "id": 5,
+          "opponent": "Cunning Stunts",
+          "for": 8,
+          "against": 2,
+          "competition": "League",
+          "date": "26/05/2019"
+        },
+        {
+          "id": 6,
+          "opponent": "The Kings",
+          "for": 10,
+          "against": 0,
+          "competition": "League",
+          "date": "26/05/2019"
+        }
+      ]
+    }
+  ],
+  "game": [{
+    "id": 1,
+    "opponent": "Deathstar Utd",
+    "for": 6,
+    "against": 5,
+    "competition": "League",
+    "data": "26/05/2019",
+    "team": [
       {
-        "id": 2,
-        "name": "Season 2",
-        "results": [
+        "name": "Joseph Bartram",
+        "position": "Goalkeeper",
+        "motm": true,
+        "goals": 0,
+        "assists": 0,
+        "id": 1
+      },
+      {
+        "name": "Mark Smith",
+        "position": "Defender",
+        "yellow": 0,
+        "red": 0,
+        "motm": false,
+        "goals": 0,
+        "assists": 0,
+        "id": 3
+      },
+      {
+        "name": "Andy Baker",
+        "position": "Defender",
+        "yellow": 0,
+        "red": 0,
+        "motm": false,
+        "goals": 0,
+        "assists": 0,
+        "id": 4
+      },
+      {
+        "name": "Alex Stewart",
+        "position": "Midfield",
+        "yellow": 0,
+        "red": 0,
+        "motm": false,
+        "goals": 0,
+        "assists": 2,
+        "id": 9
+      },
+      {
+        "name": "Calum McIntosh",
+        "position": "Midfield",
+        "yellow": 0,
+        "red": 0,
+        "motm": false,
+        "goals": 1,
+        "assists": 1,
+        "id": 10
+      },
+      {
+        "name": "Robert Lupton",
+        "position": "Midfield",
+        "yellow": 0,
+        "red": 0,
+        "motm": false,
+        "goals": 1,
+        "assists": 2,
+        "id": 7
+      },
+      {
+        "name": "Fergus McIntosh",
+        "position": "Forwards",
+        "yellow": 0,
+        "red": 0,
+        "motm": false,
+        "goals": 1,
+        "assists": 0,
+        "id": 11
+      },
+      {
+        "name": "Martyn Davies",
+        "position": "Forwards",
+        "yellow": 0,
+        "red": 0,
+        "motm": false,
+        "goals": 3,
+        "assists": 0,
+        "id": 12
+      }
+    ],
+    "stats": {
+      "goals": {
+        "title": "Goals",
+        "scorers": [
           {
-            "id": 1,
-            "opponent": "Deathstar Utd",
-            "for": 6,
-            "against": 5,
-            "competition": "League",
-            "date": "26/05/2019"
+            "name": "Martyn Davies",
+            "assisted_by": null
           },
           {
-            "id": 2,
-            "opponent": "Jolly Boys FC",
-            "for": 3,
-            "against": 1,
-            "competition": "League",
-            "date": "26/05/2019"
+            "name": "Martyn Davies",
+            "assisted_by": "Calum McIntosh"
           },
           {
-            "id": 3,
-            "opponent": "Los Niños",
-            "for": 7,
-            "against": 1,
-            "competition": "League",
-            "date": "26/05/2019"
+            "name": "Martyn Davies",
+            "assisted_by": "Alex Stewart"
           },
           {
-            "id": 4,
-            "opponent": "Hatchenamo",
-            "for": 3,
-            "against": 1,
-            "competition": "League",
-            "date": "26/05/2019"
+            "name": "Robert Lupton",
+            "assisted_by": "Alex Stewart"
           },
           {
-            "id": 5,
-            "opponent": "Cunning Stunts",
-            "for": 8,
-            "against": 2,
-            "competition": "League",
-            "date": "26/05/2019"
+            "name": "Calum McIntosh",
+            "assisted_by": "Robert Lupton"
           },
           {
-            "id": 6,
-            "opponent": "The Kings",
-            "for": 10,
-            "against": 0,
-            "competition": "League",
-            "date": "26/05/2019"
+            "name": "Fergus McIntosh",
+            "assisted_by": "Robert Lupton"
           }
         ]
       }
-    ],
-    "game": [{
-      "id": 1,
-      "opponent": "Deathstar Utd",
-      "for": 6,
-      "against": 5,
-      "competition": "League",
-      "data": "26/05/2019",
-      "team": [
-        {
-          "name": "Joseph Bartram",
-          "position": "Goalkeeper",
-          "motm": true,
-          "goals": 0,
-          "assists": 0,
-          "id": 1
-        },
-        {
-          "name": "Mark Smith",
-          "position": "Defender",
-          "yellow": 0,
-          "red": 0,
-          "motm": false,
-          "goals": 0,
-          "assists": 0,
-          "id": 3
-        },
-        {
-          "name": "Andy Baker",
-          "position": "Defender",
-          "yellow": 0,
-          "red": 0,
-          "motm": false,
-          "goals": 0,
-          "assists": 0,
-          "id": 4
-        },
-        {
-          "name": "Alex Stewart",
-          "position": "Midfield",
-          "yellow": 0,
-          "red": 0,
-          "motm": false,
-          "goals": 0,
-          "assists": 2,
-          "id": 9
-        },
-        {
-          "name": "Calum McIntosh",
-          "position": "Midfield",
-          "yellow": 0,
-          "red": 0,
-          "motm": false,
-          "goals": 1,
-          "assists": 1,
-          "id": 10
-        },
-        {
-          "name": "Robert Lupton",
-          "position": "Midfield",
-          "yellow": 0,
-          "red": 0,
-          "motm": false,
-          "goals": 1,
-          "assists": 2,
-          "id": 7
-        },
-        {
-          "name": "Fergus McIntosh",
-          "position": "Forwards",
-          "yellow": 0,
-          "red": 0,
-          "motm": false,
-          "goals": 1,
-          "assists": 0,
-          "id": 11
-        },
-        {
-          "name": "Martyn Davies",
-          "position": "Forwards",
-          "yellow": 0,
-          "red": 0,
-          "motm": false,
-          "goals": 3,
-          "assists": 0,
-          "id": 12
-        }
-      ],
-      "stats": {
-        "goals": {
-          "title": "Goals",
-          "scorers": [
-            {
-              "name": "Martyn Davies",
-              "assisted_by": null
-            },
-            {
-              "name": "Martyn Davies",
-              "assisted_by": "Calum McIntosh"
-            },
-            {
-              "name": "Martyn Davies",
-              "assisted_by": "Alex Stewart"
-            },
-            {
-              "name": "Robert Lupton",
-              "assisted_by": "Alex Stewart"
-            },
-            {
-              "name": "Calum McIntosh",
-              "assisted_by": "Robert Lupton"
-            },
-            {
-              "name": "Fergus McIntosh",
-              "assisted_by": "Robert Lupton"
-            }
-          ]
-        }
-      }
-    }]
-  }
+    }
+  }]
 }
