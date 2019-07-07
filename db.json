@@ -297,10 +297,10 @@
   "game": [{
     "id": 1,
     "opponent": "Deathstar Utd",
-    "for": 6,
-    "against": 5,
+    "goals_for": 6,
+    "goals_against": 5,
     "competition": "League",
-    "data": "26/05/2019",
+    "date": "26/05/2019",
     "team": [
       {
         "name": "Joseph Bartram",
@@ -382,6 +382,28 @@
       }
     ],
     "stats": {
+      "opta": {
+        "title": "Opta Al",
+        "player_stats": [
+          {
+            "player": "Joseph Bartram",
+            "fact": "1st MOTM of the Season"
+          },
+          {
+            "player": "Martyn Davies",
+            "fact": "4th Hattrick for Hackney Wednesday"
+          },
+          {
+            "player": "Alex Stewart",
+            "fact": "4 assists in last 2 games"
+          },
+          {
+            "player": "Mark Smith",
+            "fact": "3rd Clean Sheet of the season"
+          }
+        ],
+        "team_stat": "100th Goal was scored in this game"
+      },
       "goals": {
         "title": "Goals",
         "scorers": [
