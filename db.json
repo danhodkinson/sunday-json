@@ -188,7 +188,8 @@
         "yellow": 0,
         "red": 0,
         "for": 82,
-        "against": 18
+        "against": 18,
+        "motm": 1
       },
       "form": ["W", "L", "W", "W", "W" ]
 
@@ -206,7 +207,8 @@
         "yellow": 0,
         "red": 0,
         "for": 3,
-        "against": 1
+        "against": 1,
+        "motm": 0
       },
       "form": ["W"]
     }
