@@ -189,7 +189,10 @@
         "red": 0,
         "for": 82,
         "against": 18,
-        "motm": 1
+        "motm": 1,
+        "win": 22,
+        "lose": 1,
+        "draw": 1
       },
       "form": ["W", "L", "W", "W", "W" ]
 
@@ -208,7 +211,10 @@
         "red": 0,
         "for": 3,
         "against": 1,
-        "motm": 0
+        "motm": 0,
+        "win": 1,
+        "lose": 0,
+        "draw": 0
       },
       "form": ["W"]
     }
